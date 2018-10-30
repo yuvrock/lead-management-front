@@ -1,11 +1,11 @@
-# LeadManagementFront
+# Lead Management Front
 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/17d1fd1aa27e4b839266be10ea0b392a)](https://www.codacy.com/app/c0derlint/lead-management-front?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JBossOutreach/lead-management-front&amp;utm_campaign=Badge_Grade)
 
 [![Travis CI Status](https://travis-ci.com/JBossOutreach/lead-management-front.svg?branch=master)](https://travis-ci.com/JBossOutreach/lead-management-front)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+This project was generated with [Angular CLI] (https://github.com/angular/angular-cli) version 6.1.2.
 
 ## Development server
 
@@ -30,4 +30,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# lead-management-front
+# Lead Management Front
